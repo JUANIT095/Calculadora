@@ -8,7 +8,10 @@ import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
-
+/**
+ *
+ * @author Juanito
+ */
 
 public class Calculadora extends javax.swing.JFrame {
     
